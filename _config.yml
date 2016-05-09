@@ -1,0 +1,28 @@
+name: seditiousblasphemer
+favicon: null
+layout_spectrum: 0.7465323952492326
+typography_spectrum: 0.026061613345518708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8283423245884478
+  lightness: 0.9525397601537406
+  saturation: 0.34211444994434714
+  rhythmicContrast: 0.36203096550889313
+purpose: []
