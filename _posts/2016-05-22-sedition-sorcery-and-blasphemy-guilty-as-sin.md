@@ -1,9 +1,9 @@
 ---
-dateModified: '2016-05-22T18:50:49.735Z'
-datePublished: '2016-05-22T18:51:04.111Z'
+dateModified: '2016-05-22T18:54:23.351Z'
+datePublished: '2016-05-22T18:54:44.931Z'
 description: 'Sedition, sorcery, and blasphemy?'
 inFeed: true
-title: ''
+title: Are you the son of God?
 author: []
 starred: false
 sourcePath: _posts/2016-05-22-sedition-sorcery-and-blasphemy-guilty-as-sin.md
